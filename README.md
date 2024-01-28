@@ -1,4 +1,4 @@
-# Project Readme: Vision-Language Model Evaluation for Data Visualization Reproduction
+# Project: Vision-Language Model Evaluation for Data Visualization Reproduction
 
 ## Overview
 
